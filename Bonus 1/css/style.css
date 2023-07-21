@@ -1,0 +1,26 @@
+body {
+    background-color: #666;
+    color: white;
+
+}
+.fizz{
+    background-color:red
+}
+ .buzz{
+    background-color: blue ;
+ }
+ .fizzbuzz{
+    background-color: green;
+ }
+ .box{
+    width: calc(100% / 10 - 10px);
+    aspect-ratio: 1 / 1;
+    border: 1px solid black;
+
+ }
+ .pippo{
+    color: violet;
+    font-size: 5rem;
+    text-decoration: underline;
+ }
+ 
